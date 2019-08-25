@@ -1,8 +1,15 @@
 # **Traffic Sign Recognition** 
 
-## Writeup
+## Main Files
+* Souce Code: Traffic_Sign_Classifier.ipynb
+* Source Code Export Format: Traffic_Sign_Classifier.html
+* Project Instruction: ProjectDescrition.md
+* output folder: all the result images, models
+* test_imgs folder: all the test images of german traffic signs found on web
+* PS: training dataset is in ../data folder. Not available here
 
-**Build a Traffic Sign Recognition Project**
+
+## Build a Traffic Sign Recognition Project
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
